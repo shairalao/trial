@@ -1,0 +1,1 @@
+ambot = "wako kasabot na gyud"
